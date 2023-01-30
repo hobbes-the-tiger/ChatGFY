@@ -17,8 +17,9 @@ RNG = random.SystemRandom()
 
 USAGE_TEXT = """usage: chatgfy.py [-L -P]
 
-TODO
+-L - Lembasted - the cleaner version of the formula
+-P - Philibusted - the not-so-clean version of the formula
 """
 
-if __name__ == "__main__":
-  main(sys.argv[1:])
+print("Remember, employees must now use foul language at work.")
+print(USAGE_TEXT)
