@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #
-# chatgfy.py - Chat GFY - a random curseword generator, inspired by Better Off Ted
+# cussbot.py - CussBot - a random curseword generator, inspired by Better Off Ted
 #
 # Usage: chat.py -L -P 
 #
